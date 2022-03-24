@@ -1,1 +1,0 @@
-echo "Test shell jenkins"
